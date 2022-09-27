@@ -1,6 +1,6 @@
-<h1 align=center>
+<!-- <h1 align=center>
 <img src="https://res.cloudinary.com/nataliebravo/image/upload/v1630406853/NFT/banner_npzzzz.png" />
-</h1>
+</h1> -->
 
 <div align="center">
   
@@ -36,21 +36,21 @@ Galerie is a NFT Marketplace that enables the creation, sale, and purchase of di
 
 Check out how it looks:
 
-<p align="center">
+<!-- <p align="center">
  <img alt="Homepage print"   src="https://res.cloudinary.com/nataliebravo/image/upload/v1630412771/NFT/galerie-homepage_kznhvx.png" >
-<p />
+<p /> -->
 
 <a id='architecture' />
 
 ## :information_source: Architecture and Client-side Flow
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Client-Flow"src="https://res.cloudinary.com/nataliebravo/image/upload/v1626701427/NFT/client-side-flow_iqhq9a.png">
 <p />
 
 <p align="center">
   <img alt="Architecture"src="https://res.cloudinary.com/nataliebravo/image/upload/v1626701440/NFT/arquitechure_hunzuw.png">
-<p />
+<p /> -->
 
 
 <a id='technologies'/>
